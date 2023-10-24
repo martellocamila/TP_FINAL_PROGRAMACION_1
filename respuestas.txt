@@ -1,0 +1,400 @@
+En 1945;1;1
+En 1950;1;0
+En 1960;1;0
+En 1935;1;0
+El Nilo;2;1
+El Amazonas;2;0
+El Yangtse;2;0
+El Misisipi-Misuri;2;0
+Gabriel Garcia Marquez;3;1
+Pablo Neruda;3;0
+Mario Vargas Llosa;3;0
+Jorge Luis Borges;3;0
+Rusia;4;1
+Canada;4;0
+Estados Unidos;4;0
+China;4;0
+1916;5;0
+1918;5;0
+1915;5;0
+1914;5;1
+Venus;6;0
+Marte;6;1
+Mercurio;6;0
+Neptuno;6;0
+Leonardo da Vinci;7;1
+Vincent van Gogh;7;0
+Pablo Picasso;7;0
+Michelangelo;7;0
+Ag;8;0
+Fe;8;0
+Au;8;1
+Cu;8;0
+Futbol americano;9;0
+Beisbol;9;0
+Baloncesto;9;1
+Futbol;9;0
+Yuri Gagarin;10;1
+Neil Armstrong;10;0
+John Glenn;10;0
+Buzz Aldrin;10;0
+Gabriel Garcia Marquez;11;0
+William Shakespeare;11;0
+Friedrich Nietzsche;11;0
+Miguel de Cervantes;11;1
+Hierro;12;0
+Aluminio;12;1
+Oro;12;0
+Cobre;12;0
+Frida Kahlo;13;1
+Diego Rivera;13;0
+Leonardo da Vinci;13;0
+Pablo Picasso;13;0
+En Africa;14;1
+En Europa;14;0
+En Asia;14;0
+En America del Sur;14;0
+Won;15;0
+Dolar;15;0
+Yen;15;1
+Euro;15;0
+Imperio Otomano;16;0
+Imperio Mongol;16;0
+Imperio Persa;16;0
+Imperio Romano;16;1
+Tropico de Cancer;17;0
+Circulo Polar Artico;17;0
+Meridiano de Greenwich;17;1
+Tropico de Capricornio;17;0
+Antoine de Saint-Exupery;18;1
+F. Scott Fitzgerald;18;0
+J.K. Rowling;18;0
+Leo Tolstoy;18;0
+Oceano Atlantico;19;0
+Oceano Indico;19;0
+Oceano Pacifico;19;1
+Oceano Antartico;19;0
+1776;20;1
+1789;20;0
+1865;20;0
+1848;20;0
+George Washington;21;1
+Thomas Jefferson;21;0
+John Adams;21;0
+Abraham Lincoln;21;0
+Mercurio;22;1
+Sodio;22;0
+Potasio;22;0
+Plomo;22;0
+Rusia;23;0
+China;23;1
+India;23;0
+Japon;23;0
+Monte Kilimanjaro;24;0
+Monte McKinley (Denali);24;0
+Monte Aconcagua;24;0
+Monte Everest;24;1
+Charles Dickens;25;0
+Jane Austen;25;0
+William Shakespeare;25;1
+Homer;25;0
+Rio Sena;26;1
+Rio Tamesis;26;0
+Rio Danubio;26;0
+Rio Rin;26;0
+Etiopia;27;0
+Liberia;27;1
+Sudafrica;27;0
+Kenia;27;0
+Respiracion;28;0
+Transpiracion;28;0
+Digestion;28;0
+Fotosintesis;28;1
+Ron Weasley;29;0
+Hermione Granger;29;0
+Harry Potter;29;1
+Dumbledore;29;0
+1905;30;0
+1923;30;0
+1917;30;1
+1932;30;0
+Cretacico;31;1
+Jurasico;31;0
+Triasico;31;0
+Devonico;31;0
+Oxigeno;32;0
+Nitrogeno;32;1
+Dioxido de carbono;32;0
+Hidrogeno;32;0
+Fidel Castro;33;1
+Che Guevara;33;0
+Raul Castro;33;0
+Camilo Cienfuegos;33;0
+Evaporacion;34;0
+Condensacion;34;0
+Deshidratacion;34;1
+Congelacion;34;0
+1900;35;0
+1924;35;0
+1948;35;0
+1896;35;1
+He;36;0
+O;36;0
+H;36;1
+C;36;0
+Italia;37;1
+Grecia;37;0
+Espania;37;0
+Portugal;37;0
+Camberra;38;1
+Sidney;38;0
+Melbourne;38;0
+Brisbane;38;0
+Termometro;39;0
+Higrometro;39;0
+Barometro;39;1
+Anemometro;39;0
+Vincent van Gogh;40;1
+Leonardo da Vinci;40;0
+Pablo Picasso;40;0
+Claude Monet;40;0
+1863;41;0
+1876;41;0
+1864;41;1
+1872;41;0
+George Orwell;42;1
+Aldous Huxley;42;0
+F. Scott Fitzgerald;42;0
+J.R.R. Tolkien;42;0
+Higado;43;0
+Cerebro;43;0
+Pulmon;43;0
+Piel;43;1
+Londres;44;0
+Paris;44;1
+Roma;44;0
+Madrid;44;0
+Buzz Aldrin;45;0
+John Glenn;45;0
+Neil Armstrong;45;1
+Yuri Gagarin;45;0
+Julio;46;1
+Vatio;46;0
+Kilogramo;46;0
+Newton;46;0
+Conduccion;47;1
+Radiacion;47;0
+Conveccion;47;0
+Evaporacion;47;0
+Hepatitis;48;0
+Tuberculosis;48;0
+Malaria;48;0
+SIDA;48;1
+1985;49;0
+1991;49;0
+1989;49;1
+1995;49;0
+Oceano Indico;50;0
+Mar de Coral;50;1
+Mar de Tasmania;50;0
+Mar Caribe;50;0
+Leon Tolstoi;51;0
+Fiodor Dostoievski;51;1
+Anton Chejov;51;0
+Aleksandr Pushkin;51;0
+Oxigeno (O2);52;0
+Nitrogeno (N2);52;0
+Hidrogeno (H2);52;0
+Dioxido de carbono (CO2);52;1
+Acido desoxirribonucleico;53;1
+Acido ribonucleico;53;0
+Proteina;53;0
+Lipido;53;0
+Abraham Lincoln;54;1
+Thomas Jefferson;54;0
+George Washington;54;0
+Andrew Johnson;54;0
+Humero;55;0
+Fibula;55;0
+Femur;55;1
+Tibia;55;0
+1810;56;1
+1821;56;0
+1836;56;0
+1850;56;0
+Marte;57;0
+Venus;57;0
+Jupiter;57;1
+Urano;57;0
+Joseph Stalin;58;0
+Vladimir Lenin;58;1
+Leon Trotsky;58;0
+Mikhail Gorbachev;58;0
+Dioxido de carbono (CO2);59;1
+Nitrogeno (N2);59;0
+Oxigeno (O2);59;0
+Hidrogeno (H2);59;0
+En Jordania;60;1
+En Egipto;60;0
+En Israel;60;0
+En Turquia;60;0
+Alexandre Dumas;61;1
+Victor Hugo;61;0
+Gustave Flaubert;61;0
+Emile Zola;61;0
+Ca;62;0
+Co;62;0
+C;62;1
+Cu;62;0
+Brasil;63;0
+Indonesia;63;0
+Filipinas;63;0
+Australia;63;1
+Pablo Picasso;64;0
+Vincent van Gogh;64;1
+Leonardo da Vinci;64;0
+Claude Monet;64;0
+Fotosintesis;65;1
+Respiracion;65;0
+Digestion;65;0
+Fermentacion;65;0
+1;66;0
+2;66;0
+3;66;1
+4;66;0
+1948;67;0
+1945;67;0
+1947;67;0
+1949;67;1
+Sergio Aguero;68;0
+Hernan Crespo;68;0
+Lionel Messi;68;1
+Gabriel Batistuta;68;0
+Venus;69;0
+Tierra;69;0
+Mercurio;69;1
+Marte;69;0
+Maximilien Robespierre;70;1
+Napoleon Bonaparte;70;0
+Louis XVI;70;0
+Jean-Jacques Rousseau;70;0
+1912;71;1
+1915;71;0
+1917;71;0
+1910;71;0
+Euro;72;0
+Libra esterlina;72;1
+Dolar estadounidense;72;0
+Yen japones;72;0
+Oxigeno;73;1
+Hidrogeno;73;0
+Nitrogeno;73;0
+Dioxido de carbono;73;0
+Sofocles;74;0
+Homero;74;1
+Eurípides;74;0
+Herodoto;74;0
+Uranio;75;1
+Plutonio;75;0
+Plomo;75;0
+Osmio;75;0
+Roma;76;0
+Madrid;76;0
+Ciudad del Vaticano;76;1
+Atenas;76;0
+Japon;77;1
+China;77;0
+Corea del Sur;77;0
+Tailandia;77;0
+Sublimacion;78;0
+Condensación;78;0
+Fusion;78;0
+Evaporacion;78;1
+Thomas Edison;79;0
+Nikola Tesla;79;0
+Alexander Graham Bell;79;1
+Marconi;79;0
+La piel;80;1
+Los ojos;80;0
+Los oidos;80;0
+La nariz;80;0
+Sudamerica;81;1
+Africa;81;0
+Asia;81;0
+Europa;81;0
+F.W. de Klerk;82;0
+Nelson Mandela;82;1
+B.J. Vorster;82;0
+P.W. Botha;82;0
+Rio Amazonas;83;0
+Rio Congo;83;0
+Rio Nilo;83;1
+Rio Tigris;83;0
+Galileo Galilei;84;0
+Johannes Kepler;84;1
+Isaac Newton;84;0
+Nicolas Copernico;84;0
+India;85;0
+China;85;1
+Estados Unidos;85;0
+Indonesia;85;0
+Pancho Villa;86;0
+Porfirio Diaz;86;0
+Emiliano Zapata;86;1
+Benito Juarez;86;0
+Nitrogeno;87;1
+Oxigeno;87;0
+Dioxido de carbono;87;0
+Hidrogeno;87;0
+Malaria;88;1
+Dengue;88;0
+Zika;88;0
+Fiebre amarilla;88;0
+1498;89;0
+1492;89;1
+1521;89;0
+1620;89;0
+Moscu;90;1
+San Petersburgo;90;0
+Nueva York;90;0
+Paris;90;0
+El proceso mediante el cual las plantas convierten la luz solar en energia quimica para alimentarse;91;1
+Un proceso de combustion que libera oxigeno;91;0
+La respiracion de las plantas;91;0
+La conversion de alimentos en energia en animales;91;0
+Ernest Hemingway;92;0
+F. Scott Fitzgerald;92;1
+William Faulkner;92;0
+John Steinbeck;92;0
+La soldadura;93;0
+La fundicion;93;0
+La termoquimica;93;0
+La metalurgia;93;1
+Isaac Newton;94;0
+Albert Einstein;94;1
+Galileo Galilei;94;0
+Nikola Tesla;94;0
+Cuando la luz de la luna se refleja en el agua;95;0
+Cuando la luz del sol choca con la luz de la luna;95;0
+Cuando la luz de una linterna atraviesa un prisma;95;0
+Cuando la luz del sol se refracta y se descompone en colores debido a las gotas de agua en la atmosfera;95;1
+Jules Verne;96;0
+Isaac Asimov;96;0
+H.G. Wells;96;1
+Arthur C. Clarke;96;0
+El craneo;97;1
+La columna vertebral;97;0
+La pelvis;97;0
+Las costillas;97;0
+Nepal;98;1
+China;98;0
+India;98;0
+Bután;98;0
+Cordoba;99;0
+Montevideo;99;0
+Buenos Aires;99;1
+Santiago;99;0
+Gabriel Garcia Marquez;100;1
+Mario Vargas Llosa;100;0
+Pablo Neruda;100;0
+Julio Cortazar;100;0

@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1697592938 source:c:\users\camim\desktop\facu\segundo cuatri\programacion\juego_multiple_choice_tp\puntos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"puntos.h"
+
+1697592893 c:\users\camim\desktop\facu\segundo cuatri\programacion\juego_multiple_choice_tp\puntos.h
+
+1697643534 source:c:\users\camim\desktop\facu\segundo cuatri\programacion\juego_multiple_choice_tp\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<conio.h>
+	"juego.h"
+	"jugador.h"
+	"pregunta.h"
+	"respuesta.h"
+	"puntos.h"
+	"menu.h"
+
+1697602884 c:\users\camim\desktop\facu\segundo cuatri\programacion\juego_multiple_choice_tp\juego.h
+	"pregunta.h"
+	"jugador.h"
+
+1697602740 c:\users\camim\desktop\facu\segundo cuatri\programacion\juego_multiple_choice_tp\pregunta.h
+	"respuesta.h"
+
+1697600751 c:\users\camim\desktop\facu\segundo cuatri\programacion\juego_multiple_choice_tp\respuesta.h
+
+1697656411 c:\users\camim\desktop\facu\segundo cuatri\programacion\juego_multiple_choice_tp\jugador.h
+	"puntos.h"
+
+1697602418 c:\users\camim\desktop\facu\segundo cuatri\programacion\juego_multiple_choice_tp\menu.h
+
+1697658527 source:c:\users\camim\desktop\facu\segundo cuatri\programacion\juego_multiple_choice_tp\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<float.h>
+	<conio.h>
+	"jugador.h"
+	"menu.h"
+	"puntos.h"
+	"pregunta.h"
+	"juego.h"
+
+1697660214 source:c:\users\camim\desktop\facu\segundo cuatri\programacion\juego_multiple_choice_tp\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"juego.h"
+	<conio.h>
+	<windows.h>
+
+1697603056 source:c:\users\camim\desktop\facu\segundo cuatri\programacion\juego_multiple_choice_tp\pregunta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pregunta.h"
+	"respuesta.h"
+
+1697656719 source:c:\users\camim\desktop\facu\segundo cuatri\programacion\juego_multiple_choice_tp\respuesta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"respuesta.h"
+	"pregunta.h"
+
+1697644836 source:c:\users\camim\desktop\facu\segundo cuatri\programacion\juego_multiple_choice_tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"menu.h"
+	"juego.h"
+	"pregunta.h"
+	"respuesta.h"
+	"jugador.h"
+

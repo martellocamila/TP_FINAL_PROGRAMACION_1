@@ -1,0 +1,100 @@
+1;En que ano se fundo la ONU?
+2;Cual es el rio mas largo del mundo?
+3;Quien escribio "Cien anos de soledad"?
+4;Cual es el pais mas grande del mundo en terminos de superficie?
+5;En que ano comenzo la Primera Guerra Mundial?
+6;Que planeta es conocido como "el planeta rojo"?
+7;Quien pinto la Mona Lisa?
+8;Cual es el simbolo quimico del oro?
+9;Cual es el deporte mas popular en Estados Unidos?
+10;Quien fue el primer hombre en orbitar la Tierra?
+11;Quien escribio "Don Quijote de la Mancha"?
+12;Cual es el metal mas abundante en la corteza terrestre?
+13;Que famosa pintora mexicana es conocida por sus autorretratos?
+14;En que continente se encuentra Egipto?
+15;Cual es la moneda oficial de Japon?
+16;Que imperio fue gobernado por Julio Cesar?
+17;Como se llama la linea imaginaria que divide la Tierra en hemisferio este y oeste?
+18;Quien es el autor de "El principito"?
+19;Cual es el oceano mas grande del mundo?
+20;En que ano se firmo la Declaracion de Independencia de los Estados Unidos?
+21;Quien fue el primer presidente de Estados Unidos?
+22;Cual es el metal liquido a temperatura ambiente?
+23;En que pais se encuentra la Gran Muralla China?
+24;Cual es el monte mas alto del mundo?
+25;Quien escribio "Romeo y Julieta"?
+26;Que rio pasa por la ciudad de Paris?
+27;Que pais africano fue colonizado por Liberia en el siglo XIX?
+28;Cual es el proceso por el cual las plantas convierten la luz solar en energia?
+29;Quien es el protagonista de la serie de libros "Harry Potter"?
+30;En que ano se llevo a cabo la Revolucion Rusa?
+31;Que periodo de tiempo geologico es conocido como "la era de los dinosaurios"?
+32;Cual es el gas mas abundante en la atmosfera terrestre?
+33;Quien fue el lider de la Revolucion Cubana?
+34;Cual es el proceso de eliminacion de agua en estado liquido?
+35;En que ano se inauguraron los primeros Juegos Olimpicos modernos?
+36;Cual es el simbolo quimico del hidrogeno?
+37;Que pais tiene forma de bota en el mapa de Europa?
+38;Cual es la capital de Australia?
+39;Que instrumento se utiliza para medir la presion atmosferica?
+40;Quien pinto "La noche estrellada"?
+41;En que ano se fundo la Cruz Roja?
+42;Que autor escribio "1984"?
+43;Cual es el organo mas grande del cuerpo humano?
+44;En que ciudad se encuentra la Torre Eiffel?
+45;Quien fue el primer hombre en la Luna?
+46;Que unidad se utiliza para medir la energia?
+47;Cual es el proceso de transferencia de calor a traves del movimiento de particulas?
+48;Que enfermedad es causada por el virus VIH?
+49;En que ano cayo el Muro de Berlin?
+50;Cual es el oceano mas pequeno del mundo?
+51;Quien es el autor de "Crimen y castigo"?
+52;Cual es el gas que las plantas absorben de la atmosfera para realizar la fotosintesis?
+53;Que es el ADN?
+54;Quien fue el presidente de Estados Unidos durante la Guerra Civil Americana?
+55;Cual es el hueso mas largo del cuerpo humano?
+56;En que ano se proclamo la independencia de Mexico?
+57;Cual es el quinto planeta del sistema solar?
+58;Quien fue el lider de la Revolucion Rusa?
+59;Que gas se utiliza en los refrescos para hacerlos burbujear?
+60;En que pais se encuentra la ciudad de Petra, famosa por sus construcciones en roca?
+61;Quien escribio "Los tres mosqueteros"?
+62;Cual es el simbolo quimico del carbono?
+63;En que pais se encuentra la Gran Barrera de Coral?
+64;Quien pinto "Los girasoles"?
+65;Cual es el proceso por el cual los seres vivos obtienen energia de los alimentos?
+66;Cuantos mundiales tiene la seleccion Argentina?
+67;En que ano se firmo la Declaracion de los Derechos Humanos?
+68;Quien es el maximo goleador de la seleecion Argentina?
+69;Cual es el planeta mas cercano al Sol?
+70;Quien fue el lider de la Revolucion Francesa?
+71;En que ano se hundio el Titanic?
+72;Cual es la moneda oficial de Reino Unido?
+73;Que elemento quimico es necesario para la combustion?
+74;Quien fue el autor de "La Odisea"?
+75;Cual es el metal mas pesado en la tabla periodica?
+76;En que ciudad se encuentra el Vaticano?
+77;Que pais es conocido como "la tierra del sol naciente"?
+78;Cual es el proceso por el cual el agua se convierte en vapor?
+79;Quien fue el inventor del telefono?
+80;Cual es el mayor organo sensorial del cuerpo humano?
+81;En que continente se encuentra la selva amazonica?
+82;Quien fue el presidente de Sudafrica conocido por su lucha contra el apartheid?
+83;Cual es el rio que atraviesa Egipto?
+84;Que astronomo formulo las leyes del movimiento planetario?
+85;Cual es el pais mas poblado del mundo?
+86;Quien fue el lider de la Revolucion Mexicana?
+87;Cual es el gas que forma aproximadamente el 78% de la atmosfera terrestre?
+88;Que enfermedad es causada por la picadura del mosquito Anopheles?
+89;En que ano se descubrio America?
+90;Cual es la capital de Rusia?
+91;Que es la fotosintesis?
+92;Quien escribio "El Gran Gatsby"?
+93;Cual es el proceso por el cual se transforma el hierro en acero?
+94;Que cientifico propuso la teoria de la relatividad?
+95;Cual es el proceso por el cual se forma el arco iris?
+96;Quien fue el autor de "La guerra de los mundos"?
+97;Cual es el hueso que protege el cerebro?
+98;En que pais se encuentra el monte Everest?
+99;Cual es la capital de Argentina?
+100;Quien escribio "El amor en los tiempos del colera"?
